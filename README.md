@@ -252,4 +252,7 @@ df_final.write.format("csv").save('hdfs://namenode/user/spark/projeto_final_basi
 
 </details>
 
+---
+
+# Aqui estão as visualizações feitas no Spark de cada exercício.
 
